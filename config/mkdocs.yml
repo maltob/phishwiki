@@ -1,0 +1,10 @@
+site_name: Phish Wiki
+site_description: 'Phish.wiki'
+site_author: 'Michael Altobelli'
+docs_dir: docs/
+repo_name: 'maltob/phishwiki'
+repo_url: 'https://github.com/maltob/phishwiki'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
